@@ -7,7 +7,8 @@ would become C, and so on. The method is named after Julius Caesar, who apparent
 used it to communicate with his generals.
 
   a. Implement Encryption and Decryption functions of Caesar cipher.
-  b. Then implement a Cipher function which takes Encryption and Decryption
+  
+b. Then implement a Cipher function which takes Encryption and Decryption
 functions to process the data.
 
 Your answers should be uploaded to your repository.
